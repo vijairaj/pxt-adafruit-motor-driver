@@ -1,3 +1,5 @@
+[![build status](https://travis-ci.org/vijairaj/pxt-adafruit-motor-driver.svg?branch=master)](https://travis-ci.org/vijairaj/pxt-adafruit-motor-driver.svg?branch=master)
+
 # pxt-adafruit-motor-driver
 
 Microbit Makecode block for [Adafruit Motor Driver Board](https://github.com/adafruit/Adafruit_Motor-Shield-v1)
